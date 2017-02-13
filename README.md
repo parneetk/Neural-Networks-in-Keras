@@ -54,9 +54,13 @@ os.environ["THEANO_FLAGS"] = "mode=FAST_RUN, device=gpu, floatX=float32"
 </pre></code>
 
 ## Resources:
-* Michael Nielsen's book on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+* [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [Article on Deep Learning](https://www.cs.nyu.edu/mishra/COURSES/15.Summer/lecun2015.pdf) by Yann LeCun, Yoshua Bengio and Geoffrey Hinton
 * Christopher Olah's [blog](http://colah.github.io/)
+* [Udacity's Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730)
+* [Stanford Course CS231n: Course webpage](https://cs231n.github.io/) by Andrej Karpathy 
+* [Stanford Course CS231n: Video Lectures (Winter 2016)](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * Videos from [Bay Area Deep Learning School](http://www.bayareadlschool.org/): [Day1](https://www.youtube.com/watch?v=eyovmAtoUx0), [Day2](https://www.youtube.com/watch?v=9dXiAecyJrY)
 * [Overview of Gradient Descent Optimization Algorithms](http://sebastianruder.com/optimizing-gradient-descent/) by Sebastian Ruder
 
